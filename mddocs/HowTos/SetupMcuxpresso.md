@@ -2,6 +2,8 @@
 We start out development with this IDE version: **MCUXpresso IDE v10.1.1 [Build 606] [2018-01-02]**
 This is the "full-featured free (code size unlimited)" version of the current NXP-IDE
 
+Rem 2019-10-13: I added (next current) version **MCUXpresso IDE v11.0.1 [Build 2563] [2019-09-01]** to our common drive (climb/7 RKOS/tools/mcu11-0-1). I had a quick test and succeded with this HowTo. So if you are new here I suggest to use this version!
+
 You can get its binaries (Win/Linux/Apple included) either from
 - the NXP website (registration required): [NXP - Website download](https://www.nxp.com/support/developer-resources/software-development-tools/mcuxpresso-software-and-tools/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE?&tid=vanMCUXPRESSO/IDE)
 - or from our common project drive, hosted by FHWN under the path: climb/7 RKOS/tools/MCUXpressoIDE.7z
